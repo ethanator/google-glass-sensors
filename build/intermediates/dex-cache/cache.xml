@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Ethanator/Desktop/Coding/Developer/[Mobile]/Android/adt-bundle-mac-x86_64-20131030/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/Ethanator/AndroidStudioProjects/LocationSensors/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-e1aa9e4658543d984eabfd66d633885de62b368c.jar" />
+    </item>
+
+</items>
